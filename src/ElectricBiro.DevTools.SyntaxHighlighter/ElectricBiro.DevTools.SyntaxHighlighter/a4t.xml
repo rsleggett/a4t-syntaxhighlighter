@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<plugin xmlns:c="http://www.alchemywebstore.com/configuration/definitions" xmlns="http://www.alchemywebstore.com/">
+  <id>56032859e4de021770dcc9f9</id>
+  <name>SyntaxHighlighter</name>
+  <description><![CDATA[]]></description>
+  <version>1.0.0.0</version>
+  <versionId>56032859e4de021770dcc9fa</versionId>
+  <frameworkVersion>0.7.0.0</frameworkVersion>
+  <buildTime>2015-12-30T07:04:36.3707812+00:00</buildTime>
+</plugin>

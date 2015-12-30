@@ -1,0 +1,14 @@
+C:\Projects\ebdevtools\src\AlchemyPlugin1\AlchemyPlugin1\obj\Debug\AlchemyPlugin1.csprojResolveAssemblyReference.cache
+C:\Projects\ebdevtools\src\AlchemyPlugin1\AlchemyPlugin1\bin\Debug\AlchemyPlugin1.dll
+C:\Projects\ebdevtools\src\AlchemyPlugin1\AlchemyPlugin1\bin\Debug\AlchemyPlugin1.pdb
+C:\Projects\ebdevtools\src\AlchemyPlugin1\AlchemyPlugin1\bin\Debug\Alchemy4Tridion.Plugins.dll
+C:\Projects\ebdevtools\src\AlchemyPlugin1\AlchemyPlugin1\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\ebdevtools\src\AlchemyPlugin1\AlchemyPlugin1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Projects\ebdevtools\src\AlchemyPlugin1\AlchemyPlugin1\bin\Debug\System.Web.Http.dll
+C:\Projects\ebdevtools\src\AlchemyPlugin1\AlchemyPlugin1\bin\Debug\Tridion.ContentManager.CoreService.Client.dll
+C:\Projects\ebdevtools\src\AlchemyPlugin1\AlchemyPlugin1\bin\Debug\Alchemy4Tridion.Plugins.xml
+C:\Projects\ebdevtools\src\AlchemyPlugin1\AlchemyPlugin1\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\ebdevtools\src\AlchemyPlugin1\AlchemyPlugin1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Projects\ebdevtools\src\AlchemyPlugin1\AlchemyPlugin1\bin\Debug\System.Web.Http.xml
+C:\Projects\ebdevtools\src\AlchemyPlugin1\AlchemyPlugin1\obj\Debug\AlchemyPlugin1.dll
+C:\Projects\ebdevtools\src\AlchemyPlugin1\AlchemyPlugin1\obj\Debug\AlchemyPlugin1.pdb

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<plugin xmlns:c="http://www.alchemywebstore.com/configuration/definitions" xmlns="http://www.alchemywebstore.com/">
+  <id>56698c80e4de020cc4edf76a</id>
+  <name>Test1</name>
+  <description><![CDATA[]]></description>
+  <version>1.0.0.0</version>
+  <versionId>56698c80e4de020cc4edf76b</versionId>
+  <frameworkVersion>0.7.0.0</frameworkVersion>
+  <buildTime>2015-12-10T14:29:51.4364062+00:00</buildTime>
+</plugin>
